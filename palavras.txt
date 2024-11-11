@@ -1,0 +1,3000 @@
+praia
+parque
+shopping
+cinema
+museu
+igreja
+praça
+hotel
+aeroporto
+montanha
+deserto
+floresta
+cachoeira
+pista
+praia
+porto
+ponte
+vila
+bairro
+cidade antiga
+zona rural
+zona urbana
+torre
+castelo
+muralha
+farol
+biblioteca
+estádio
+ginásio
+metrô
+rodoviária
+avenida
+praça de alimentação
+parque de diversões
+jardim botânico
+museu de arte
+Tom Cruise
+Meryl Streep
+Brad Pitt
+Angelina Jolie
+Scarlett Johansson
+Robert De Niro
+Al Pacino
+Leonardo DiCaprio
+Natalie Portman
+Denzel Washington
+Emma Stone
+Chris Hemsworth
+Johnny Depp
+Cate Blanchett
+Anne Hathaway
+Charlize Theron
+Joaquin Phoenix
+Keanu Reeves
+Ryan Gosling
+Tom Hardy
+Norte
+Nordeste
+Centro-Oeste
+Sudeste
+Sul
+Ásia
+Europa
+América do Norte
+América do Sul
+Oceania
+África
+Oriente Médio
+Leste Europeu
+Sul da Ásia
+Ártico
+Antártica
+Brasil
+Estados Unidos
+França
+Itália
+China
+Japão
+Alemanha
+Rússia
+Índia
+Canadá
+México
+Argentina
+Chile
+Colômbia
+Peru
+Espanha
+Portugal
+Reino Unido
+Austrália
+Nova Zelândia
+São Paulo
+Rio de Janeiro
+Buenos Aires
+Nova York
+Paris
+Londres
+Tóquio
+Sydney
+Berlim
+Amsterdã
+Bruxelas
+Madri
+Lisboa
+Cidade do México
+Santiago
+Bogotá
+Seul
+Pequim
+Mumbai
+Los Angeles
+Chicago
+Vancouver
+cachorro
+gato
+elefante
+tigre
+leão
+tartaruga
+pinguim
+tubarão
+baleia
+urso
+lobo
+raposa
+jaguar
+gorila
+macaco
+cobra
+águia
+papagaio
+pavão
+leopardo
+energia
+força
+aceleração
+gravidade
+pressão
+massa
+trabalho
+potência
+inércia
+calor
+fricção
+impulso
+momento
+eletricidade
+campo magnético
+resistência
+capacitância
+indutância
+velocidade
+movimento
+átomo
+molécula
+elemento
+composto
+reação
+ácido
+base
+sal
+pH
+oxidação
+redução
+íon
+cátion
+ânion
+ligação covalente
+ligação iônica
+metal
+não-metal
+polímero
+gás
+continente
+oceano
+montanha
+rio
+deserto
+ilha
+floresta
+planície
+planalto
+bacia hidrográfica
+costa
+península
+estreito
+golfo
+baía
+arquipélago
+delta
+cordilheira
+vulcão
+fóssil
+triângulo
+equação
+número primo
+cosseno
+logaritmo
+derivada
+integral
+fração
+número irracional
+número imaginário
+raiz quadrada
+progressão aritmética
+progressão geométrica
+vetor
+matriz
+determinante
+função
+parábola
+hipérbole
+seno
+substantivo
+verbo
+adjetivo
+advérbio
+sujeito
+predicado
+frase
+oração
+sintaxe
+morfologia
+antônimo
+sinônimo
+parágrafo
+pontuação
+gramática
+conjunção
+interjeição
+pronomes
+concordância
+tempo verbal
+Torre Eiffel
+Cristo Redentor
+Estátua da Liberdade
+Muralha da China
+Coliseu
+Taj Mahal
+Big Ben
+Sagrada Família
+Ponte Golden Gate
+Pirâmides de Gizé
+Templo de Luxor
+Stonehenge
+Machu Picchu
+Palácio de Versalhes
+Torre de Pisa
+Ópera de Sydney
+Templo de Kyoto
+Castelo de Neuschwanstein
+Alhambra
+Castelo de Windsor
+cadeira
+mesa
+computador
+telefone
+televisão
+bicicleta
+geladeira
+fogão
+livro
+caneta
+lápis
+papel
+relógio
+óculos
+carteira
+mochila
+copo
+garrafa
+sapato
+chave
+camiseta
+calça
+sapato
+vestido
+casaco
+boné
+blusa
+saia
+meia
+jaqueta
+camisa
+bermuda
+terno
+gravata
+cinto
+luva
+chapéu
+cachecol
+uniforme
+calção
+pizza
+hambúrguer
+sushi
+feijoada
+macarrão
+lasanha
+batata frita
+bife
+salada
+frango
+arroz
+feijão
+torta
+pão
+bolo
+chocolate
+sorvete
+suco
+refrigerante
+café
+vermelho
+azul
+verde
+amarelo
+preto
+branco
+roxo
+rosa
+laranja
+marrom
+cinza
+bege
+turquesa
+dourado
+prata
+violeta
+lavanda
+azul marinho
+verde claro
+vermelho escuro
+arranha-céu
+escritório
+hospital
+escola
+igreja
+universidade
+biblioteca
+cinema
+shopping
+restaurante
+farmácia
+supermercado
+aeroporto
+estação de trem
+estação de metrô
+hotel
+motel
+teatro
+museu
+delegacia
+cidade antiga
+base
+igreja
+Castelo de Neuschwanstein
+número primo
+Mumbai
+Big Ben
+estreito
+tubarão
+Londres
+bermuda
+estação de trem
+reação
+Joaquin Phoenix
+Johnny Depp
+branco
+massa
+Keanu Reeves
+Europa
+Denzel Washington
+Brad Pitt
+salada
+molécula
+igreja
+México
+papel
+lobo
+México
+momento
+Robert De Niro
+Tom Cruise
+papel
+cidade antiga
+shopping
+Ponte Golden Gate
+Sul
+floresta
+cachecol
+supermercado
+cachecol
+livro
+aeroporto
+Tóquio
+cachorro
+lavanda
+camisa
+azul marinho
+sorvete
+interjeição
+gramática
+leão
+movimento
+avenida
+relógio
+base
+fração
+energia
+montanha
+América do Sul
+Muralha da China
+caneta
+Pequim
+batata frita
+jaguar
+sinônimo
+boné
+antônimo
+livro
+lasanha
+escola
+integral
+roxo
+arquipélago
+França
+Norte
+número imaginário
+França
+número imaginário
+telefone
+aeroporto
+refrigerante
+Pirâmides de Gizé
+molécula
+geladeira
+átomo
+Torre de Pisa
+gás
+zona rural
+golfo
+Canadá
+estação de trem
+chave
+parágrafo
+polímero
+águia
+Keanu Reeves
+Nova Zelândia
+Charlize Theron
+jardim botânico
+São Paulo
+baleia
+avenida
+calça
+papel
+fricção
+oceano
+lápis
+farol
+cinto
+resistência
+branco
+Nova York
+campo magnético
+gato
+cadeira
+igreja
+casaco
+ginásio
+íon
+blusa
+arquipélago
+Ponte Golden Gate
+cinema
+gramática
+ilha
+Big Ben
+impulso
+parque de diversões
+macarrão
+número imaginário
+raposa
+gorila
+castelo
+ligação iônica
+rosa
+oração
+universidade
+Chile
+Estátua da Liberdade
+cadeira
+universidade
+floresta
+derivada
+arranha-céu
+shopping
+Nordeste
+sorvete
+tigre
+indutância
+Brasil
+Estátua da Liberdade
+Sagrada Família
+continente
+Torre de Pisa
+sintaxe
+composto
+lavanda
+tigre
+feijoada
+Pirâmides de Gizé
+lobo
+integral
+continente
+Austrália
+matriz
+ácido
+Vancouver
+elemento
+reação
+delta
+amarelo
+capacitância
+Nordeste
+Sul
+Sul
+Alhambra
+motel
+garrafa
+escritório
+bairro
+cachoeira
+antônimo
+calção
+garrafa
+cinema
+leopardo
+camiseta
+sorvete
+copo
+universidade
+Muralha da China
+calça
+hotel
+parágrafo
+jardim botânico
+conjunção
+eletricidade
+Antártica
+sujeito
+museu
+prata
+Antártica
+shopping
+museu
+planície
+antônimo
+bermuda
+amarelo
+Austrália
+não-metal
+trabalho
+Brasil
+chapéu
+Canadá
+pontuação
+Castelo de Windsor
+França
+ligação iônica
+universidade
+parágrafo
+amarelo
+vetor
+interjeição
+derivada
+Lisboa
+pH
+gravidade
+porto
+chapéu
+predicado
+Tom Hardy
+farmácia
+pontuação
+predicado
+vetor
+branco
+inércia
+elefante
+fogão
+macaco
+cordilheira
+cinema
+computador
+logaritmo
+jaqueta
+calça
+Denzel Washington
+casaco
+Índia
+cadeira
+biblioteca
+livro
+leopardo
+rosa
+Nordeste
+arranha-céu
+praia
+calor
+cátion
+torta
+predicado
+saia
+Cate Blanchett
+museu
+cobra
+parábola
+Nova Zelândia
+pinguim
+Joaquin Phoenix
+momento
+verde claro
+cadeira
+planalto
+oceano
+costa
+bairro
+cachecol
+Torre Eiffel
+violeta
+Scarlett Johansson
+preto
+bacia hidrográfica
+Estados Unidos
+tartaruga
+Londres
+costa
+Torre de Pisa
+parágrafo
+terno
+indutância
+frango
+vestido
+cinto
+matriz
+Scarlett Johansson
+bolo
+força
+golfo
+aceleração
+lobo
+hotel
+Europa
+Rússia
+papagaio
+Índia
+bermuda
+conjunção
+salada
+Pequim
+matriz
+indutância
+computador
+derivada
+raiz quadrada
+molécula
+chave
+papagaio
+vestido
+movimento
+Paris
+matriz
+azul marinho
+oceano
+advérbio
+advérbio
+golfo
+Vancouver
+vetor
+Ásia
+casaco
+golfo
+vetor
+zona rural
+azul marinho
+polímero
+Bogotá
+Norte
+chave
+Chile
+derivada
+vetor
+Natalie Portman
+Tom Cruise
+parque de diversões
+inércia
+oração
+cobra
+zona urbana
+inércia
+Alemanha
+Templo de Luxor
+ligação covalente
+escola
+vetor
+Seul
+Cidade do México
+tigre
+sapato
+sapato
+Sul da Ásia
+Muralha da China
+calça
+mesa
+fóssil
+cinema
+não-metal
+pressão
+calor
+sujeito
+Pirâmides de Gizé
+Torre de Pisa
+Lisboa
+blusa
+França
+Templo de Luxor
+Castelo de Windsor
+hotel
+lobo
+hipérbole
+cordilheira
+morfologia
+lavanda
+sujeito
+Chris Hemsworth
+Mumbai
+ânion
+livro
+Los Angeles
+cobra
+refrigerante
+progressão geométrica
+mochila
+uniforme
+conjunção
+energia
+preto
+cordilheira
+cachoeira
+bicicleta
+gato
+violeta
+verde claro
+Leonardo DiCaprio
+águia
+planície
+verbo
+China
+igreja
+aeroporto
+uniforme
+América do Norte
+igreja
+trabalho
+avenida
+tubarão
+Paris
+leopardo
+vila
+parábola
+suco
+hotel
+carteira
+hospital
+base
+aceleração
+baía
+farmácia
+laranja
+gato
+costa
+gorila
+São Paulo
+aeroporto
+macaco
+casaco
+boné
+Emma Stone
+África
+cosseno
+reação
+Lisboa
+gramática
+resistência
+polímero
+redução
+saia
+macarrão
+batata frita
+café
+Sudeste
+estreito
+casaco
+estação de metrô
+impulso
+integral
+sinônimo
+costa
+vetor
+Scarlett Johansson
+fração
+lasanha
+cachoeira
+Europa
+hambúrguer
+número primo
+antônimo
+tempo verbal
+bermuda
+Lisboa
+sorvete
+Scarlett Johansson
+progressão geométrica
+pressão
+geladeira
+cachoeira
+Pirâmides de Gizé
+Oceania
+calor
+papel
+Chicago
+península
+Chicago
+jaguar
+velocidade
+lápis
+Pequim
+chave
+Antártica
+indutância
+Índia
+tubarão
+morfologia
+blusa
+águia
+rio
+Paris
+China
+sinônimo
+amarelo
+pontuação
+base
+sapato
+torta
+Ásia
+muralha
+shopping
+café
+pinguim
+Bruxelas
+sinônimo
+Machu Picchu
+arranha-céu
+Anne Hathaway
+cachecol
+Ryan Gosling
+azul
+Buenos Aires
+indutância
+Norte
+substantivo
+montanha
+Leonardo DiCaprio
+Castelo de Neuschwanstein
+camiseta
+predicado
+bege
+Estátua da Liberdade
+equação
+muralha
+determinante
+determinante
+Tom Hardy
+hipérbole
+Nova Zelândia
+papagaio
+Torre de Pisa
+Buenos Aires
+café
+papel
+parágrafo
+feijão
+praia
+preto
+Taj Mahal
+Angelina Jolie
+Sul da Ásia
+predicado
+universidade
+feijoada
+Templo de Luxor
+Los Angeles
+Vancouver
+meia
+Palácio de Versalhes
+lasanha
+Pequim
+derivada
+gás
+Mumbai
+cinza
+branco
+força
+elemento
+rodoviária
+Alemanha
+equação
+porto
+polímero
+Muralha da China
+gravidade
+cinza
+conjunção
+Muralha da China
+cinto
+golfo
+planalto
+frase
+pinguim
+tempo verbal
+Emma Stone
+bicicleta
+mesa
+praça
+Espanha
+baía
+Stonehenge
+indutância
+Santiago
+Pirâmides de Gizé
+hipérbole
+arquipélago
+integral
+aeroporto
+Estados Unidos
+planície
+molécula
+pão
+Templo de Kyoto
+cinema
+oxidação
+Brasil
+café
+Alemanha
+Cate Blanchett
+cinema
+Sul
+tigre
+ilha
+Pirâmides de Gizé
+Espanha
+ligação covalente
+hambúrguer
+praia
+lasanha
+energia
+cinto
+águia
+logaritmo
+Stonehenge
+verde
+lobo
+Torre de Pisa
+vermelho escuro
+tempo verbal
+laranja
+Antártica
+Stonehenge
+pavão
+sinônimo
+momento
+molécula
+Bruxelas
+Leonardo DiCaprio
+restaurante
+Keanu Reeves
+energia
+lasanha
+Estados Unidos
+Peru
+cadeira
+fogão
+urso
+elefante
+lápis
+número irracional
+raposa
+Tom Hardy
+blusa
+deserto
+arranha-céu
+gravata
+seno
+reação
+estação de metrô
+não-metal
+estreito
+pista
+Angelina Jolie
+universidade
+escritório
+Cristo Redentor
+bolo
+aeroporto
+Tom Cruise
+oxidação
+macarrão
+sorvete
+pinguim
+lápis
+Estados Unidos
+cadeira
+dourado
+pavão
+jaguar
+Antártica
+Templo de Luxor
+vermelho
+Nova Zelândia
+ilha
+Natalie Portman
+metal
+roxo
+Brad Pitt
+vermelho escuro
+Centro-Oeste
+caneta
+advérbio
+livro
+Argentina
+amarelo
+elefante
+elemento
+Torre Eiffel
+Centro-Oeste
+macarrão
+Anne Hathaway
+Norte
+Estados Unidos
+aceleração
+escola
+praia
+meia
+ânion
+Cidade do México
+predicado
+papel
+sushi
+Seul
+pronomes
+América do Norte
+vestido
+Chris Hemsworth
+bermuda
+massa
+cátion
+Templo de Luxor
+livro
+laranja
+bairro
+Cidade do México
+Bruxelas
+estação de trem
+arroz
+Torre Eiffel
+oceano
+sapato
+Tóquio
+avenida
+França
+Norte
+vermelho escuro
+triângulo
+função
+velocidade
+Buenos Aires
+delegacia
+interjeição
+China
+caneta
+calção
+Londres
+óculos
+museu
+adjetivo
+Castelo de Neuschwanstein
+Brad Pitt
+reação
+Machu Picchu
+delta
+Muralha da China
+Alhambra
+determinante
+costa
+zona urbana
+concordância
+gravata
+não-metal
+concordância
+Templo de Luxor
+Sul
+Norte
+continente
+sapato
+oração
+Nova Zelândia
+cadeira
+América do Norte
+vermelho escuro
+ponte
+costa
+Oriente Médio
+hambúrguer
+Ásia
+montanha
+calor
+Stonehenge
+deserto
+roxo
+América do Norte
+Torre de Pisa
+cobra
+Angelina Jolie
+ânion
+copo
+Austrália
+oceano
+Leste Europeu
+águia
+sapato
+Sul da Ásia
+castelo
+Antártica
+shopping
+frase
+número irracional
+pavão
+Angelina Jolie
+Sul
+fricção
+caneta
+dourado
+gravata
+raiz quadrada
+águia
+shopping
+pinguim
+sorvete
+motel
+pista
+Big Ben
+Leste Europeu
+Templo de Luxor
+América do Norte
+Austrália
+Oriente Médio
+aeroporto
+macarrão
+porto
+fricção
+Chicago
+fração
+Templo de Kyoto
+Muralha da China
+Estátua da Liberdade
+golfo
+cachecol
+boné
+biblioteca
+ligação iônica
+substantivo
+Oceania
+sujeito
+metal
+Keanu Reeves
+feijoada
+Chile
+Castelo de Windsor
+Torre de Pisa
+Norte
+feijão
+Al Pacino
+porto
+velocidade
+polímero
+pavão
+antônimo
+gás
+cachorro
+igreja
+Tóquio
+garrafa
+sorvete
+praia
+branco
+avenida
+dourado
+fogão
+verde
+Angelina Jolie
+lasanha
+Peru
+Bogotá
+Reino Unido
+Espanha
+China
+gravidade
+terno
+branco
+delegacia
+determinante
+escritório
+Centro-Oeste
+potência
+leão
+fogão
+sorvete
+Espanha
+metrô
+papagaio
+campo magnético
+pontuação
+cachecol
+continente
+Norte
+pressão
+impulso
+advérbio
+Palácio de Versalhes
+costa
+praia
+montanha
+Keanu Reeves
+base
+camisa
+calor
+suco
+hipérbole
+montanha
+Charlize Theron
+base
+delta
+Antártica
+universidade
+batata frita
+Nova York
+concordância
+oxidação
+Pirâmides de Gizé
+México
+ligação iônica
+Espanha
+baía
+Machu Picchu
+vetor
+lasanha
+televisão
+restaurante
+Reino Unido
+Pequim
+calça
+interjeição
+turquesa
+Sagrada Família
+violeta
+molécula
+Chris Hemsworth
+Austrália
+torre
+bermuda
+Palácio de Versalhes
+parágrafo
+terno
+meia
+cinza
+Keanu Reeves
+macarrão
+impulso
+pavão
+Pequim
+uniforme
+pão
+teatro
+campo magnético
+Ópera de Sydney
+verbo
+lasanha
+preto
+leopardo
+biblioteca
+matriz
+café
+ponte
+oceano
+sorvete
+Chris Hemsworth
+delta
+gás
+Estátua da Liberdade
+potência
+hospital
+bolo
+oceano
+número irracional
+leão
+Norte
+óculos
+boné
+zona urbana
+gramática
+hambúrguer
+teatro
+águia
+Chile
+montanha
+praça de alimentação
+Alhambra
+América do Sul
+meia
+Robert De Niro
+muralha
+Pequim
+restaurante
+Itália
+motel
+pH
+Tom Cruise
+ginásio
+lápis
+Sul
+velocidade
+parábola
+Austrália
+Vancouver
+Lisboa
+Charlize Theron
+casaco
+Berlim
+determinante
+Japão
+geladeira
+Templo de Luxor
+verbo
+bolo
+rio
+óculos
+pavão
+Charlize Theron
+Alhambra
+Reino Unido
+Oriente Médio
+Alemanha
+sal
+Austrália
+Buenos Aires
+Leste Europeu
+fogão
+energia
+hospital
+feijoada
+massa
+campo magnético
+Scarlett Johansson
+continente
+hipérbole
+Norte
+jardim botânico
+costa
+mesa
+feijoada
+verbo
+parágrafo
+rosa
+salada
+parque de diversões
+relógio
+pronomes
+Estados Unidos
+Stonehenge
+verde
+potência
+parágrafo
+baleia
+biblioteca
+televisão
+livro
+estação de metrô
+calça
+composto
+não-metal
+águia
+derivada
+Sul da Ásia
+ligação iônica
+Santiago
+estação de trem
+pizza
+gravata
+cinto
+Al Pacino
+Ópera de Sydney
+pão
+feijoada
+matriz
+pontuação
+bairro
+cachoeira
+hotel
+aeroporto
+cobra
+movimento
+papagaio
+arquipélago
+força
+hospital
+Nova York
+marrom
+cachoeira
+sorvete
+Peru
+rosa
+energia
+frase
+Charlize Theron
+Sudeste
+universidade
+Castelo de Neuschwanstein
+Ponte Golden Gate
+Los Angeles
+frango
+força
+urso
+Al Pacino
+morfologia
+Robert De Niro
+Tom Hardy
+Ópera de Sydney
+Tóquio
+Norte
+Antártica
+Taj Mahal
+feijoada
+mochila
+Chicago
+aceleração
+raposa
+motel
+progressão aritmética
+branco
+urso
+metal
+conjunção
+praia
+Los Angeles
+vermelho escuro
+hotel
+pontuação
+lavanda
+mochila
+Lisboa
+chocolate
+fricção
+ânion
+floresta
+não-metal
+composto
+energia
+hambúrguer
+progressão geométrica
+cosseno
+hambúrguer
+Itália
+Ryan Gosling
+Ryan Gosling
+calor
+azul
+advérbio
+inércia
+vetor
+macarrão
+bife
+África
+metal
+sapato
+derivada
+Estados Unidos
+café
+matriz
+calção
+cinema
+Mumbai
+Argentina
+avenida
+América do Sul
+computador
+interjeição
+pinguim
+Taj Mahal
+Norte
+golfo
+Leste Europeu
+Seul
+Emma Stone
+cinto
+sintaxe
+jaguar
+estação de trem
+continente
+raiz quadrada
+Denzel Washington
+roxo
+leopardo
+camisa
+Big Ben
+bege
+geladeira
+Big Ben
+bife
+Oceania
+América do Norte
+fricção
+seno
+sal
+Leonardo DiCaprio
+íon
+pizza
+Nova York
+rodoviária
+Estados Unidos
+Cidade do México
+ânion
+Angelina Jolie
+molécula
+vulcão
+delegacia
+mochila
+predicado
+Rio de Janeiro
+lavanda
+dourado
+muralha
+Antártica
+batata frita
+Peru
+vermelho
+inércia
+ânion
+azul marinho
+número imaginário
+Berlim
+matriz
+jaqueta
+roxo
+muralha
+trabalho
+hospital
+zona rural
+Cristo Redentor
+Sul
+Meryl Streep
+cadeira
+Reino Unido
+Índia
+arranha-céu
+oração
+pressão
+cinema
+Ponte Golden Gate
+sintaxe
+velocidade
+pavão
+Europa
+verbo
+Alemanha
+trabalho
+Nova Zelândia
+gato
+Castelo de Windsor
+Canadá
+Buenos Aires
+leão
+luva
+trabalho
+Nova York
+Los Angeles
+geladeira
+Madri
+hospital
+eletricidade
+fração
+Leste Europeu
+Centro-Oeste
+Tóquio
+sushi
+América do Norte
+Alhambra
+pH
+Ryan Gosling
+Oriente Médio
+capacitância
+vermelho escuro
+Sagrada Família
+cosseno
+oração
+pontuação
+Oriente Médio
+zona rural
+lavanda
+uniforme
+lasanha
+Emma Stone
+base
+morfologia
+zona rural
+lavanda
+gramática
+Europa
+blusa
+fóssil
+praça
+sorvete
+relógio
+seno
+azul
+Chris Hemsworth
+ligação iônica
+mesa
+Ponte Golden Gate
+restaurante
+Leonardo DiCaprio
+Chris Hemsworth
+concordância
+sal
+praia
+muralha
+Robert De Niro
+salada
+biblioteca
+cátion
+floresta
+trabalho
+Oceania
+Berlim
+urso
+Cristo Redentor
+vermelho escuro
+praça de alimentação
+planície
+Angelina Jolie
+Centro-Oeste
+saia
+boné
+Oceania
+castelo
+floresta
+lavanda
+leopardo
+Colômbia
+tubarão
+Meryl Streep
+Tom Cruise
+farol
+tigre
+concordância
+Palácio de Versalhes
+Cidade do México
+Stonehenge
+número primo
+Big Ben
+sintaxe
+Cidade do México
+igreja
+pontuação
+gato
+massa
+camiseta
+triângulo
+Tóquio
+vetor
+elefante
+mochila
+Sydney
+televisão
+violeta
+raiz quadrada
+cachorro
+teatro
+Keanu Reeves
+jaqueta
+golfo
+Nova Zelândia
+montanha
+Japão
+advérbio
+cadeira
+Templo de Luxor
+roxo
+restaurante
+Ryan Gosling
+avenida
+Bruxelas
+ligação iônica
+hambúrguer
+potência
+equação
+África
+frango
+função
+luva
+Brasil
+continente
+Big Ben
+urso
+Muralha da China
+preto
+Denzel Washington
+elefante
+sintaxe
+Oceania
+pronomes
+ilha
+molécula
+sintaxe
+golfo
+Denzel Washington
+Madri
+Cristo Redentor
+Stonehenge
+ligação iônica
+urso
+leopardo
+calor
+Castelo de Windsor
+batata frita
+refrigerante
+não-metal
+oração
+Estados Unidos
+Paris
+cachecol
+cachorro
+interjeição
+shopping
+América do Sul
+número primo
+deserto
+ligação iônica
+chave
+calor
+número imaginário
+Ártico
+cátion
+Ponte Golden Gate
+península
+azul marinho
+função
+Reino Unido
+determinante
+Scarlett Johansson
+concordância
+Templo de Kyoto
+vetor
+Amsterdã
+rio
+blusa
+televisão
+matriz
+cinema
+jaguar
+gato
+América do Norte
+casaco
+sushi
+tubarão
+bairro
+roxo
+macaco
+Portugal
+copo
+elemento
+Madri
+Brasil
+advérbio
+Templo de Luxor
+lápis
+Seul
+Ártico
+baleia
+carteira
+cachecol
+Brad Pitt
+arranha-céu
+Tom Hardy
+cobra
+tubarão
+cordilheira
+Colômbia
+Espanha
+determinante
+massa
+massa
+Tom Hardy
+verbo
+Machu Picchu
+base
+impulso
+amarelo
+gramática
+relógio
+parágrafo
+branco
+parábola
+cinema
+íon
+Brasil
+rodoviária
+gramática
+Japão
+Joaquin Phoenix
+shopping
+Leonardo DiCaprio
+ácido
+Chris Hemsworth
+óculos
+delegacia
+elefante
+África
+teatro
+composto
+vestido
+Índia
+televisão
+aeroporto
+marrom
+adjetivo
+fogão
+Angelina Jolie
+Buenos Aires
+matriz
+rosa
+cinto
+triângulo
+Scarlett Johansson
+museu
+integral
+Muralha da China
+momento
+feijão
+parque de diversões
+Japão
+feijão
+Estátua da Liberdade
+Anne Hathaway
+Al Pacino
+frango
+Bruxelas
+delegacia
+pH
+verde claro
+livro
+fóssil
+estação de trem
+bife
+velocidade
+Templo de Kyoto
+Pequim
+boné
+arranha-céu
+shopping
+arranha-céu
+universidade
+hambúrguer
+mochila
+Keanu Reeves
+óculos
+verbo
+Bogotá
+inércia
+bacia hidrográfica
+Reino Unido
+Rio de Janeiro
+feijão
+Portugal
+oração
+praça de alimentação
+Londres
+Templo de Kyoto
+metal
+museu
+Brad Pitt
+Vancouver
+Denzel Washington
+Bruxelas
+parque
+Ártico
+Brad Pitt
+pista
+bege
+gravidade
+torre
+restaurante
+Norte
+zona urbana
+hambúrguer
+prata
+arquipélago
+bicicleta
+predicado
+Johnny Depp
+refrigerante
+Nordeste
+Pequim
+Japão
+Sagrada Família
+pão
+Muralha da China
+México
+vestido
+terno
+macaco
+tempo verbal
+Estados Unidos
+equação
+Templo de Kyoto
+castelo
+massa
+ilha
+papagaio
+fogão
+parágrafo
+fração
+sapato
+montanha
+França
+rio
+vermelho escuro
+progressão geométrica
+sinônimo
+Taj Mahal
+Mumbai
+chapéu
+progressão geométrica
+boné
+adjetivo
+Rússia
+África
+Ópera de Sydney
+montanha
+Canadá
+pista
+relógio
+não-metal
+Castelo de Windsor
+Templo de Luxor
+Oceania
+Muralha da China
+ponte
+cinto
+vulcão
+estreito
+sapato
+equação
+Cidade do México
+rosa
+blusa
+batata frita
+Canadá
+arquipélago
+fricção
+Denzel Washington
+cinza
+praça de alimentação
+São Paulo
+base
+pressão
+shopping
+salada
+telefone
+meia
+saia
+tempo verbal
+hotel
+museu
+pontuação
+mochila
+carteira
+Berlim
+televisão
+Taj Mahal
+Tóquio
+Berlim
+Nova Zelândia
+amarelo
+cachoeira
+Brasil
+tartaruga
+Torre Eiffel
+supermercado
+Ponte Golden Gate
+vulcão
+uniforme
+muralha
+Stonehenge
+garrafa
+Europa
+Itália
+predicado
+roxo
+Ópera de Sydney
+Meryl Streep
+golfo
+raiz quadrada
+trabalho
+polímero
+Norte
+leão
+metal
+capacitância
+livro
+gravata
+indutância
+carteira
+Colômbia
+pressão
+progressão aritmética
+cinto
+Estados Unidos
+Peru
+lasanha
+copo
+Castelo de Neuschwanstein
+ácido
+fóssil
+bife
+Santiago
+roxo
+Europa
+luva
+Joaquin Phoenix
+triângulo
+predicado
+shopping
+estação de trem
+Alemanha
+bege
+cachoeira
+Vancouver
+bermuda
+calça
+oceano
+sintaxe
+gramática
+ilha
+verde claro
+Pirâmides de Gizé
+pizza
+bairro
+feijão
+azul marinho
+número irracional
+Oceania
+amarelo
+relógio
+Antártica
+cosseno
+fração
+torre
+amarelo
+fricção
+verde
+feijão
+Ásia
+Scarlett Johansson
+frase
+torre
+bolo
+advérbio
+geladeira
+base
+tubarão
+campo magnético
+São Paulo
+camiseta
+computador
+elefante
+Leonardo DiCaprio
+supermercado
+terno
+Tóquio
+leão
+energia
+gramática
+Estátua da Liberdade
+Cristo Redentor
+estação de metrô
+resistência
+Reino Unido
+sapato
+Castelo de Windsor
+azul marinho
+Pequim
+macarrão
+Rússia
+sal
+cachorro
+jardim botânico
+Mumbai
+laranja
+China
+derivada
+capacitância
+fração
+Al Pacino
+Sagrada Família
+feijão
+Berlim
+porto
+chave
+sushi
+inércia
+oração
+fricção
+Berlim
+Chicago
+predicado
+sapato
+gravidade
+determinante
+roxo
+elefante
+polímero
+átomo
+tubarão
+Templo de Kyoto
+bairro
+laranja
+Santiago
+Estátua da Liberdade
+gravidade
+raiz quadrada
+cinto
+mochila
+América do Norte
+Keanu Reeves
+refrigerante
+boné
+elemento
+molécula
+cátion
+Cidade do México
+supermercado
+Oriente Médio
+jardim botânico
+leopardo
+pH
+pizza
+gravata
+Cristo Redentor
+televisão
+marrom
+verde
+Austrália
+gorila
+museu
+função
+Tóquio
+Leste Europeu
+Sagrada Família
+arroz
+praça de alimentação
+blusa
+América do Norte
+hipérbole
+deserto
+motel
+Nordeste
+livro
+Bruxelas
+Muralha da China
+massa
+geladeira
+cátion
+raiz quadrada
+teatro
+Oceania
+derivada
+Austrália
+Castelo de Neuschwanstein
+Bruxelas
+Sydney
+batata frita
+pavão
+cachecol
+Charlize Theron
+Castelo de Neuschwanstein
+eletricidade
+campo magnético
+Ponte Golden Gate
+escola
+São Paulo
+continente
+mochila
+deserto
+uniforme
+México
+campo magnético
+Canadá
+zona rural
+casaco
+restaurante
+Leonardo DiCaprio
+pronomes
+turquesa
+Ártico
+urso
+Mumbai
+França
+progressão aritmética
+planalto
+papel
+arranha-céu
+zona urbana
+Emma Stone
+feijão
+blusa
+redução
+advérbio
+Meryl Streep
+carteira
+castelo
+verde claro
+Sagrada Família
+chocolate
+integral
+floresta
+carteira
+antônimo
+montanha
+Palácio de Versalhes
+sintaxe
+Emma Stone
+chocolate
+velocidade
+seno
+sintaxe
+dourado
+escritório
+bicicleta
+azul marinho
+continente
+cobra
+oxidação
+hospital
+praia
+gravata
+Palácio de Versalhes
+jaguar
+porto
+pronomes
+computador
+pizza
+cachecol
+Sudeste
+bolo
+sujeito
+fogão
+Scarlett Johansson
+biblioteca
+copo
+bairro
+lasanha
+frase
+vulcão
+jaguar
+supermercado
+continente
+Índia
+laranja
+cachorro
+museu de arte
+Madri
+Oceania
+fóssil
+fóssil
+número primo
+vermelho escuro
+número imaginário
+Scarlett Johansson
+triângulo
+resistência
+ânion
+Ópera de Sydney
+não-metal
+vetor
+montanha
+escritório
+cátion
+azul
+raposa
+interjeição
+porto
+bege
+raposa
+shopping
+campo magnético
+garrafa
+seno
+verde
+porto
+cobra
+bicicleta
+café
+cadeira
+sujeito
+verde
+substantivo
+Machu Picchu
+Madri
+planalto
+integral
+planalto
+progressão aritmética
+supermercado
+Rússia
+massa
+Templo de Luxor
+Japão
+bermuda
+inércia
+cadeira
+parábola
+vermelho
+equação
+fricção
+Cristo Redentor
+massa
+sal
+Torre Eiffel
+mochila
+mesa
+frase
+casaco
+sapato
+força
+uniforme
+campo magnético
+gramática
+massa
+shopping
+calor
+Pirâmides de Gizé
+Leste Europeu
+África
+polímero
+reação
+bege
+íon
+escritório
+pressão
+Big Ben
+pinguim
+Itália
+sinônimo
+gravata
+Argentina
+potência
+gorila
+cachecol
+Canadá
+Scarlett Johansson
+planície
+papagaio
+molécula
+campo magnético
+arranha-céu
+Mumbai
+geladeira
+Pequim
+Leonardo DiCaprio
+luva
+meia
+bacia hidrográfica
+Bogotá
+Mumbai
+potência
+Ryan Gosling
+pinguim
+frase
+Cidade do México
+relógio
+papel
+antônimo
+campo magnético
+arroz
+Ponte Golden Gate
+Scarlett Johansson
+Sul
+camiseta
+geladeira
+macaco
+tigre
+parque
+sushi
+boné
+terno
+luva
+número primo
+Cristo Redentor
+ilha
+antônimo
+Sul
+dourado
+baía
+sintaxe
+cordilheira
+estação de metrô
+capacitância
+Ásia
+América do Sul
+leopardo
+número irracional
+Emma Stone
+Pequim
+Angelina Jolie
+Johnny Depp
+violeta
+Itália
+macaco
+salada
+refrigerante
+sal
+televisão
+força
+laranja
+teatro
+Sudeste
+blusa
+Ásia
+cachecol
+saia
+pronomes
+triângulo
+teatro
+batata frita
+shopping
+feijão
+predicado
+função
+Rio de Janeiro
+carteira
+café
+shopping
+península
+Anne Hathaway
+Angelina Jolie
+ligação covalente
+laranja
+pão
+cinema
+salada
+batata frita
+Charlize Theron
+supermercado
+arquipélago
+violeta
+determinante
+tartaruga
+cachecol
+Coliseu
+energia
+movimento
+interjeição
+península
+cinema
+número imaginário
+praça de alimentação
+número primo
+museu
+cinza
+Angelina Jolie
+verde
+verbo
+capacitância
+adjetivo
+montanha
+Scarlett Johansson
+sujeito
+sal
+Ryan Gosling
+shopping
+fricção
+vulcão
+parque de diversões
+gramática
+Norte
+garrafa
+shopping
+papagaio
+telefone
+antônimo
+computador
+Torre de Pisa
+sapato
+metal
+Brasil
+lobo
+composto
+Rio de Janeiro
+Japão
+bacia hidrográfica
+ligação covalente
+Natalie Portman
+mochila
+Nova York
+Centro-Oeste
+Espanha
+Cidade do México
+vulcão
+frase
+ligação iônica
+Taj Mahal
+garrafa
+polímero
+planalto
+Chile
+número irracional
+progressão geométrica
+Castelo de Windsor
+parágrafo
+sorvete
+bife
+massa
+café
+Scarlett Johansson
+universidade
+papel
+sujeito
+número irracional
+floresta
+pressão
+morfologia
+predicado
+Johnny Depp
+verbo
+México
+sintaxe
+não-metal
+amarelo
+base
+número primo
+telefone
+São Paulo
+planalto
+Los Angeles
+feijão
+jardim botânico
+geladeira
+café
+mochila
+força
+Reino Unido
+oração
+jaguar
+cinema
+cordilheira
+tubarão
+oxidação
+progressão geométrica
+cinza
+aeroporto
+deserto
+átomo
+Austrália
+Ryan Gosling
+escola
+Austrália
+raiz quadrada
+bairro
+Paris
+Cristo Redentor
+Portugal
+Leonardo DiCaprio
+calça
+África
+televisão
+shopping
+calça
+camisa
+energia
+urso
+pista
+tigre
+uniforme
+Buenos Aires
+península
+oxidação
+vermelho
+Charlize Theron
+prata
+progressão aritmética
+matriz
+igreja
+restaurante
+São Paulo
+turquesa
+pizza
+gato
+Alemanha
+Bogotá
+Amsterdã
+leão
+número imaginário
+pH
+tigre
+ácido
+Natalie Portman
+parque
+saia
+delegacia
+mesa
+Lisboa
+garrafa
+Sul
+sujeito
+triângulo
+impulso
+gato
+pavão
+Tóquio
+feijoada
+hipérbole
+parágrafo
+campo magnético
+Reino Unido
+papel
+biblioteca
+Machu Picchu
+bife
+Austrália
+escola
+Europa
+floresta
+macarrão
+relógio
+gravata
+pressão
+Templo de Luxor
+trabalho
+terno
+Pirâmides de Gizé
+cosseno
+Londres
+chave
+redução
+floresta
+ânion
+substantivo
+número irracional
+Leste Europeu
+Castelo de Windsor
+cinema
+igreja
+igreja
+Sydney
+inércia
+interjeição
+cordilheira
+fóssil
+aceleração
+Meryl Streep
+Lisboa
+marrom
+integral
+estreito
+zona urbana
+molécula
+eletricidade
+estação de trem
+águia
+composto
+número irracional
+Brad Pitt
+Denzel Washington
+arranha-céu
+jaguar
+Sudeste
+sorvete
+museu
+Mumbai
+Mumbai
+baleia
+integral
+Coliseu
+bermuda
+verde claro
+laranja
+cosseno
+Chicago
+Nova York
+Sydney
+rodoviária
+blusa
+dourado
+turquesa
+Muralha da China
+luva
+laranja
+Amsterdã
+lápis
+cinto
+porto
+meia
+roxo
+Centro-Oeste
+pronomes
+vestido
+arranha-céu
+meia
+porto
+Los Angeles
+eletricidade
+azul
+torta
+Torre Eiffel
+indutância
+chocolate
+Rússia
+gás
+papel
+dourado
+sushi
+Peru
+feijoada
+pizza
+ligação iônica
+praça de alimentação
+museu
+teatro
+preto
+saia
+África
+predicado
+ácido
+fração
+Machu Picchu
+Argentina
+América do Sul
+Castelo de Windsor
+Ártico
+composto
+urso
+advérbio
+cinema
+biblioteca
+leão
+planalto
+Madri
+águia
+jardim botânico
+bermuda
+frase
+Brad Pitt
+lápis
+verde claro
+sorvete
+península
+movimento
+gramática
+Sudeste
+praia
+oxidação
+Pequim
+pressão
+elefante
+verde claro
+Seul
+trabalho
+Nova Zelândia
+Anne Hathaway
+vulcão
+Johnny Depp
+América do Sul
+Johnny Depp
+teatro
+função
+chapéu
+número imaginário
+Tom Hardy
+águia
+Vancouver
+Chicago
+continente
+arranha-céu
+resistência
+jaguar
+gás
+aeroporto
+conjunção
+arroz
+violeta
+oceano
+Colômbia
+Leonardo DiCaprio
+adjetivo
+parque
+pH
+Brasil
+Japão
+Peru
+praça de alimentação
+Reino Unido
+elefante
+Ryan Gosling
+Pequim
+seno
+Castelo de Neuschwanstein
+gato
+rosa
+predicado
+elemento
+aceleração
+óculos
+lavanda
+papagaio
+Joaquin Phoenix
+número primo
+Pirâmides de Gizé
+Oceania
+papagaio
+mochila
+macaco
+estação de trem
+composto
+laranja
+raposa
+gravata
+teatro
+Centro-Oeste
+momento
+hospital
+São Paulo
+delta
+integral
+tubarão
+baía
+águia
+ilha
+delegacia
+lavanda
+gás
+macarrão
+leão
+Ponte Golden Gate
+museu
+Palácio de Versalhes
+torta
+Templo de Kyoto
+Sul
+Templo de Kyoto
+Vancouver
+velocidade
+estreito
+predicado
+geladeira
+Leste Europeu
+hipérbole
+biblioteca
+Angelina Jolie
+cinto
+Argentina
+cinema
+Paris
+Keanu Reeves
+jaguar
+uniforme
+logaritmo
+matriz
+porto
+mesa
+integral
+torta
+planície
+elemento
+Torre Eiffel
+amarelo
+Oceania
+Vancouver
+reação
+Índia
+camiseta
+progressão geométrica
+Itália
+metal
+torre
+átomo
+Al Pacino
+Pirâmides de Gizé
+chocolate
+Antártica
+salada
+escritório
+Robert De Niro
+papel
+Chris Hemsworth
+composto
+raiz quadrada
+farmácia
+impulso
+restaurante
+pizza
+Cate Blanchett
+mochila
+ânion
+frango
+predicado
+Machu Picchu
+potência
+frango
+porto
+cátion
+Madri
+leão
+Stonehenge
+Meryl Streep
+caneta
+Brad Pitt
+papel
+feijão
+progressão aritmética
+igreja
+chave
+Leste Europeu
+Scarlett Johansson
+Torre de Pisa
+momento
+continente
+fricção
+bicicleta
+interjeição
+adjetivo
+Ásia
+cosseno
+fricção
+planalto
+Ásia
+metrô
+substantivo
+ligação covalente
+impulso
+planície
+África
+escola
+mochila
+Templo de Luxor
+íon
+massa
+escola
+Johnny Depp
+hospital
+museu
+azul marinho
+ácido
+polímero
+Colômbia
+base
+elefante
+farol
+Machu Picchu
+Castelo de Neuschwanstein
+gramática
+biblioteca
+deserto
+papel
+Scarlett Johansson
+Muralha da China
+bicicleta
+cordilheira
+Natalie Portman
+Norte
+São Paulo
+Alemanha
+Chris Hemsworth
+Natalie Portman
+floresta
+preto
+aceleração
+logaritmo

@@ -1,0 +1,6 @@
+1) aprender a subir o jogo nas stores
+2) implementar escolha de time, 1 min ou outros (OK)
+3) implementar a parte gráfica das cartas ao invês dessa coisa feia que gera a palavra no centro.
+4) implementar níveis de dificuldade de palavras
+5) implementar multiplayers, para todo mundo ter acesso ao resultado e por ai vai. 
+6) que sabe implementar modo monetizado (PRO), compra de avatares e colocar anúncios.
